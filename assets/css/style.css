@@ -303,13 +303,21 @@ Scrap the H3 + background picture and use img class responsive
 }
 
 .portfolio h4{
-    text-align: center;
+ /* text-align: center;
     position: absolute;
     width: 100%;
     bottom: 15px;
     background: teal;
     color:white;
+    height: 40px;*/
+    text-align: center;
+    position: absolute;
+    width: 263px;
+    bottom: 15px;
+    background: teal;
+    color: white;
     height: 40px;
+    margin-left: 5px;
 }
 
 /* Content displayed in the main box to the left of the screen. */
